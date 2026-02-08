@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../services/api_service.dart';
-import '../ui_config.dart';
+import '../configs/ui_config.dart';
 
 part 'ui_config_event.dart';
 part 'ui_config_state.dart';

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import '../model/product_model.dart';
-import '../ui_config.dart';
+import '../configs/ui_config.dart';
 
 class ApiService {
   // IMPORTANT: Change this based on your setup

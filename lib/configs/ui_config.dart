@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'configs/component_config.dart';
-import 'configs/navigation_config.dart';
-import 'configs/theme_config.dart';
+import 'component_config.dart';
+import 'navigation_config.dart';
+import 'theme_config.dart';
 
 /// Main UI Configuration from server
 class UiConfig {

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:server_side_ui/screens/sdui_widget_builder.dart';
 import '../bloc/ui_config_bloc.dart';
-import '../ui_config.dart';
+import '../configs/ui_config.dart';
 
 class SduiScreen extends StatefulWidget {
   final String routeName;
