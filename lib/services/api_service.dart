@@ -8,7 +8,7 @@ class ApiService {
   // For iOS Simulator: 'http://localhost:8080'
   // For Android Emulator: 'http://10.0.2.2:8080'
   // For Physical Device: 'http://YOUR_COMPUTER_IP:8080'
-  static const String baseUrl = 'http://10.0.2.2:8080';
+  static const String baseUrl = 'http://localhost:8080';
 
   final http.Client _client;
 
