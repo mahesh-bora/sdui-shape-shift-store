@@ -6,7 +6,7 @@ A demonstration of Server-Driven UI (SDUI) architecture that enables real-time a
 
 Ever noticed how Instagram or Zomato's layout changes without app updates? That's SDUI. Instead of hardcoding the UI, the app acts as a "rendering engine" that asks the server: *"What should I look like right now?"*
 
-This project demonstrates how companies like Instagram, Amazon, and Airbnb achieve instant UI updates by shifting UI logic from the client to the server.
+This project demonstrates the same class of server-controlled UI techniques used by large apps such as Instagram, Amazon, and Airbnb to iterate quickly without being blocked by app store releases.
 
 ## 🛠️ Tech Stack
 
