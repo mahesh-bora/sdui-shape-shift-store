@@ -26,9 +26,11 @@ This project demonstrates how companies like Instagram, Amazon, and Airbnb achie
 - **60fps Performance**: Optimized widget rebuilds with BLoC pattern
 - **Fail-Safe Architecture**: Graceful degradation for malformed JSON
 
-## 🎥 App Demonstration
+## 👨‍💻: App Screenshots
 
-Watch the complete demo showing how the app transforms throughout the day without any updates:
+| Map Screen | Choose Exercise Screen | Quiz Screen | 
+| :---         |     :---      |     :---      |       
+| <img src="https://github.com/user-attachments/assets/90cb1424-c963-4f07-b70e-e4d8c288675b" width="260" height="auto" />  | <img src="https://github.com/user-attachments/assets/10508552-3093-414b-8d58-88b230ecb57c" width="250" height="auto" /> | <img src="https://github.com/user-attachments/assets/d9ab2a3b-ca44-4d75-96d4-ce67f8732c73" width="250" height="auto" />  
 
 
 ## 🏗️ Architecture
@@ -165,11 +167,11 @@ This is a **proof-of-concept** demonstrating SDUI fundamentals. A production sys
 
 These weren't needed for understanding core patterns but are critical for real-world deployment.
 
-
 ## 📚 Resources
 
 For the detailed write-up explaining the architecture, design decisions, and learnings, check out:
-- **[📝 Full Technical Write-Up](LINK_TO_YOUR_BLOG_POST)**
+
+- [Ghost Updates: Building Apps That Change Without Play Store/App Store Updates](https://maheshbora.hashnode.dev/ghost-updates-building-apps-that-change-without-the-play-storeapp-store-updates)
 
 ## 🤝 Contributing
 
