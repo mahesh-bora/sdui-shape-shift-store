@@ -28,9 +28,36 @@ This project demonstrates how companies like Instagram, Amazon, and Airbnb achie
 
 ## 👨‍💻: App Screenshots
 
-| Map Screen | Choose Exercise Screen | Quiz Screen | 
-| :---         |     :---      |     :---      |       
-| <img src="https://github.com/user-attachments/assets/90cb1424-c963-4f07-b70e-e4d8c288675b" width="260" height="auto" />  | <img src="https://github.com/user-attachments/assets/10508552-3093-414b-8d58-88b230ecb57c" width="250" height="auto" /> | <img src="https://github.com/user-attachments/assets/d9ab2a3b-ca44-4d75-96d4-ce67f8732c73" width="250" height="auto" />  
+<table>
+  <tr>
+    <th>Morning</th>
+    <th>Flash Sale</th>
+    <th>Evening</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/e9614b11-f515-4a8c-9e5a-e614e5c0bbd2"
+        width="260"
+        alt="Morning Mode"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/8957b2a8-a964-453d-8b41-ff62158b4bd2"
+        width="260"
+        alt="Flash Sale Mode"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/0a88df3c-29fc-4775-8601-0c349c98662d"
+        width="260"
+        alt="Evening Mode"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ## 🏗️ Architecture
