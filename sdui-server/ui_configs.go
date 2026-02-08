@@ -42,7 +42,7 @@ func handleUiConfig(w http.ResponseWriter, r *http.Request) {
 	}
 
 	userId := r.Header.Get("X-User-ID")
-	mode := "night"
+	mode := getCurrentMode()
 
 	log.Printf("🎨 UI Config Request - screen='%s', mode='%s', user='%s'", screen, mode, userId)
 
